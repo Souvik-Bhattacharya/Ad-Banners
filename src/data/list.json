@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1526239187794-f8c27c7872ee"
+    },
+    {
+        "id": 2,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1709884735017-114f4a31f944"
+    },
+    {
+        "id": 3,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1616763866684-b215941fae5e"
+    },
+    {
+        "id": 4,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1601836743857-4d1e6da20a32"
+    },
+    {
+        "id": 5,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1709054067953-de860e02d136"
+    },
+    {
+        "id": 6,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1547405602-cdafbb1d8a44"
+    },
+    {
+        "id": 7,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1546189513-0873093d4013"
+    },
+    {
+        "id": 8,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1649606319472-05cbf830eaa7"
+    },
+    {
+        "id": 9,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1690308571190-590ed6ca2c15"
+    },
+    {
+        "id": 10,
+        "title": "Add Title Here",
+        "description": "Add Description Here",
+        "cta": "CTA Here",
+        "image": "https://images.unsplash.com/photo-1651058336212-7cd8d8f8f7b9"
+    }
+]
